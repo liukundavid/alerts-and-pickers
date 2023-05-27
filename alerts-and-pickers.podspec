@@ -15,6 +15,7 @@ An easy to use alerts and pickers for iOS.
   DESC
 
   s.homepage         = 'https://github.com/liukundavid/alerts-and-pickers/'
+  s.author           = { 'dillidon' => 'http://diip.tech' }
   s.license          = { type: 'MIT', file: 'LICENSE' }
   s.source           = { git: 'https://github.com/liukundavid/alerts-and-pickers.git', tag: s.version.to_s }
   s.swift_version    = '4'
